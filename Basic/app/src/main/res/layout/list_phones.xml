@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".DemoListView">
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DemoListView"
+        android:textSize="24sp"
+        android:textColor="@android:color/white"
+        android:padding="10dp"/>
+
+    <ListView
+        android:id="@+id/listViewPhones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="1dp"
+        android:background="@android:color/white"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/txtSelection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bạn chọn: "
+        android:textSize="18sp"
+        android:gravity="center"
+        android:padding="10dp"/>
+
+</LinearLayout>

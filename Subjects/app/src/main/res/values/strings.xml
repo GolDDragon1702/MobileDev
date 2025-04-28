@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QUẢN LÝ ĐIỂM MÔN HỌC</string>
+    <string name="txt1">Nhập ngày cập nhật</string>
+    <string name="txt2">Nhập hệ số</string>
+    <string name="txt3">Nhập điểm </string>
+    <string name="sp1">Danh sách môn học</string>
+    <string name="sp2">Danh sách sinh viên</string>
+    <string-array name="spList1">
+        <item>Lập trình C#</item>
+        <item>Lập trình di động</item>
+        <item>Lập trình PHP</item>
+    </string-array>
+    <string-array name="spList2">
+        <item>Trương Phú Quý</item>
+        <item>Lê Thọ Nam</item>
+        <item>Phan Thúy Diễm </item>
+    </string-array>
+    <string name="them">Thêm</string>
+    <string name="xoa">Xóa</string>
+    <string name="sua">Sửa</string>
+    <string name="clear" translatable="false">Clear</string>
+    <string name="item1">Sinh viên: Trương Phú Quý</string>
+    <string name="item2">Điểm thi : 8</string>
+    <string name="action_settings">Cài đặt</string>
+</resources>

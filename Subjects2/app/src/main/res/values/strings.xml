@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="qlmh">Quản Lý Môn Học</string>
+    <string name="dsmh">Danh sách môn học</string>
+    <string name="mamonhoc">Mã MH</string>
+    <string name="tenmonhoc">Tên MH</string>
+    <string name="sotiet">Số tiết</string>
+    <string name="nhapmonhoc">Insert</string>
+    <string name="loadmonhoc">Load</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>

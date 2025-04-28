@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/imagePlayer"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/xuantruong"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingStart="8dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textName"
+            android:text="Name"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textBirthday"
+            android:text="Birthday"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageFlag"
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:src="@drawable/vnflag"/>
+</LinearLayout>
