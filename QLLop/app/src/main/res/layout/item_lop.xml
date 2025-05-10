@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="16dp">
+    <TextView android:id="@+id/tvMaLop" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Mã lớp: IT001" android:textColor="@color/black" android:textSize="16sp" android:textStyle="bold"/>
+    <TextView android:id="@+id/tvTenLop" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="Tên lớp: Lập trình Java" android:textColor="@color/black" android:textSize="15sp"/>
+    <TextView android:id="@+id/tvSiSo" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="Sĩ số: 40" android:textColor="@color/black" android:textSize="14sp"/>
+</LinearLayout>

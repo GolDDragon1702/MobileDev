@@ -1,0 +1,30 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:padding="16dp"
+        android:layout_width="match_parent" android:layout_height="wrap_content">
+
+        <Button android:id="@+id/btnHome" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:text="Trang chủ"/>
+        <EditText android:id="@+id/edtMaSP" android:hint="Mã sản phẩm"
+            android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/edtTenSP" android:hint="Tên sản phẩm"
+            android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/edtNgaySX" android:hint="Ngày sản xuất"
+            android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/edtGiaBan" android:hint="Giá bán"
+            android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <EditText android:id="@+id/edtSoLuong" android:hint="Số lượng"
+            android:layout_width="match_parent" android:layout_height="wrap_content"/>
+
+        <LinearLayout android:orientation="horizontal"
+            android:layout_width="match_parent" android:layout_height="wrap_content">
+            <Button android:id="@+id/btnThemSP" android:text="Thêm" android:layout_weight="1"
+                android:layout_width="0dp" android:layout_height="wrap_content"/>
+            <Button android:id="@+id/btnSuaSP" android:text="Sửa" android:layout_weight="1"
+                android:layout_width="0dp" android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <ListView android:id="@+id/lvSanPham"
+            android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </LinearLayout>
+</ScrollView>

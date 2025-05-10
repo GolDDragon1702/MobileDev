@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp" tools:context=".activities.DanhSachSinhVienActivity">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="DANH SÁCH SINH VIÊN" android:textSize="24sp" android:textStyle="bold" android:gravity="center" android:layout_marginBottom="16dp"/>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginBottom="16dp">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Lớp:" android:textSize="16sp" android:layout_marginEnd="8dp"/>
+        <Spinner android:id="@+id/spnLop" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="48dp"/>
+    </LinearLayout>
+    <ListView android:id="@+id/lvDanhSachSV" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:dividerHeight="1dp"/>
+    <Button android:id="@+id/btnTroVe" android:layout_width="100dp" android:layout_height="wrap_content" android:text="Trở về" android:layout_gravity="center" android:layout_marginTop="16dp" style="@style/ButtonPrimary"/>
+</LinearLayout>

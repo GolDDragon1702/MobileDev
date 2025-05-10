@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:padding="16dp"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trang chủ"
+        android:layout_marginBottom="12dp" />
+
+    <EditText android:id="@+id/edtTuNgay" android:hint="Từ ngày (yyyy-MM-dd)"
+        android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <EditText android:id="@+id/edtDenNgay" android:hint="Đến ngày (yyyy-MM-dd)"
+        android:layout_width="match_parent" android:layout_height="wrap_content" />
+
+    <Button android:id="@+id/btnThongKe" android:text="Thống kê doanh thu"
+        android:layout_width="match_parent" android:layout_height="wrap_content" />
+
+    <TextView android:id="@+id/tvTongDoanhThu" android:text="Tổng doanh thu: "
+        android:textStyle="bold" android:textSize="16sp"
+        android:layout_width="match_parent" android:layout_height="wrap_content" />
+
+    <ListView android:id="@+id/lvThongKe"
+        android:layout_width="match_parent" android:layout_height="match_parent" />
+</LinearLayout>
