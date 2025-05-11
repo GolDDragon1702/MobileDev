@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnAdd
+id btnEdit
+id edtClass
+id edtName
+id imgDelete
+id listView
+id txtClass
+id txtName
+layout activity_main
+layout item_sinhvien
+mipmap ic_launcher
+mipmap ic_launcher_round
+xml backup_rules
+xml data_extraction_rules

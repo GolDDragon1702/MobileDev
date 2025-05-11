@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "example.qllop.app-mergeDebugResources-41:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/logan/.gradle/caches/8.11.1/transforms/9f4e5046d748962d6b3ddedbf703a4c5/transformed/appcompat-1.7.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

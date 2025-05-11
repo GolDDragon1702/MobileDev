@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-mergeDebugResources-42:/layout/item_sinh_vien.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-main-45:/layout/item_sinh_vien.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-mergeDebugResources-42:/layout/activity_danhsachlop.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-main-45:/layout/activity_danhsachlop.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-mergeDebugResources-42:/layout/item_lop.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-main-45:/layout/item_lop.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-mergeDebugResources-42:/layout/activity_sinhvien.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-main-45:/layout/activity_sinhvien.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-mergeDebugResources-42:/layout/activity_danhsachsinhvien.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-main-45:/layout/activity_danhsachsinhvien.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-mergeDebugResources-42:/layout/item_spinner_lop.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-main-45:/layout/item_spinner_lop.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-mergeDebugResources-42:/layout/activity_lop.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-main-45:/layout/activity_lop.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-mergeDebugResources-42:/layout/activity_nhaplop.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qllop.app-main-45:/layout/activity_nhaplop.xml"
+    },
+    {
+        "merged": "example.qllop.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "example.qllop.app-main-45:/layout/activity_main.xml"
+    }
+]

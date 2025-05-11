@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlsv.app-mergeDebugResources-42:/layout/item_sinhvien.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlsv.app-main-45:/layout/item_sinhvien.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlsv.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlsv.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlsv.app-mergeDebugResources-42:/layout/fragment_second.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlsv.app-main-45:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlsv.app-mergeDebugResources-42:/layout/fragment_first.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlsv.app-main-45:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "example.qlsv.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "example.qlsv.app-main-45:/layout/activity_main.xml"
+    }
+]

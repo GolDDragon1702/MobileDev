@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/layout_drink_list_item.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/layout/drink_list_item.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/drawable_pepsi.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/drawable/pepsi.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "example.fragment.app-debug-53:/layout_fragment_landscape.xml.flat",
+        "source": "example.fragment.app-main-55:/layout/fragment_landscape.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/layout-land_activity_main.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/drawable_cola.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/drawable/cola.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/layout_fragment_portrait.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/layout/fragment_portrait.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/layout_activity_main.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/layout_fragment_drink_detail.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/layout/fragment_drink_detail.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "example.fragment.app-debug-53:/layout_activity_main.xml.flat",
+        "source": "example.fragment.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/layout_fragment_landscape.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/layout/fragment_landscape.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/drawable_fami.jpg.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/drawable/fami.jpg"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/layout_fragment_drink_list.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/layout/fragment_drink_list.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "example.fragment.app-debug-53:/layout_fragment_portrait.xml.flat",
+        "source": "example.fragment.app-main-55:/layout/fragment_portrait.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/xml_backup_rules.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/drawable__up.webp.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/drawable/_up.webp"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-debug-53:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.fragment.app-main-55:/mipmap-anydpi/ic_launcher.xml"
+    }
+]

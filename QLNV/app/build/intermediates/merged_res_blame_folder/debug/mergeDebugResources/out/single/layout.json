@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/item_khachhang.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/item_khachhang.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/activity_thong_ke_doanh_thu.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/activity_thong_ke_doanh_thu.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/activity_add_nhanvien.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/activity_add_nhanvien.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/activity_nhanvien.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/activity_nhanvien.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/item_thongke.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/item_thongke.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/item_hoadon.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/item_hoadon.xml"
+    },
+    {
+        "merged": "example.qlnv.app-mergeDebugResources-42:/layout/activity_san_pham_ban_chay.xml",
+        "source": "example.qlnv.app-main-45:/layout/activity_san_pham_ban_chay.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/content_main.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/item_sanpham.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/item_sanpham.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/activity_thong_ke_san_pham_ban_chay.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/activity_thong_ke_san_pham_ban_chay.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/activity_doanh_thu.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/activity_doanh_thu.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/activity_sanpham.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/activity_sanpham.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/item_nhanvien.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/item_nhanvien.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/fragment_second.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/activity_thong_ke.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/activity_thong_ke.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/item_chitiethoadon.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/item_chitiethoadon.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/fragment_first.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/activity_chi_tiet_hoa_don.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/activity_chi_tiet_hoa_don.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/activity_khachhang.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/activity_khachhang.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/activity_ban_chay.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/activity_ban_chay.xml"
+    },
+    {
+        "merged": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-mergeDebugResources-42:/layout/activity_hoa_don.xml",
+        "source": "/home/logan/.gradle/daemon/8.11.1/example.qlnv.app-main-45:/layout/activity_hoa_don.xml"
+    }
+]

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/itemChiTietHoaDon"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="#FFFFFF"
+    android:gravity="start"
+    android:elevation="2dp">
+
+    <TextView
+        android:id="@+id/tvMaHD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mã HD: HD001"
+        android:textStyle="bold"
+        android:textColor="#2E7D32"
+        android:textSize="16sp"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:id="@+id/tvMaSP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mã SP: SP001"
+        android:textSize="15sp"
+        android:textColor="#000000"
+        android:layout_marginBottom="4dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="4dp">
+
+        <TextView
+            android:id="@+id/tvGiaBan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Giá: 100.000"
+            android:textSize="15sp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/tvSoLuong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SL: 2"
+            android:textSize="15sp"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvTongTien"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tổng: 200.000"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:textColor="#D32F2F" />
+
+</LinearLayout> 

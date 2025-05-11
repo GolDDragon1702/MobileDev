@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Trang chủ"
+        android:layout_marginBottom="12dp" />
+
+    <TextView
+        android:text="Thống kê sản phẩm bán chạy trong tháng"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ListView
+        android:id="@+id/lvSanPhamBanChay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>
